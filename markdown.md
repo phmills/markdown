@@ -46,13 +46,11 @@ Table  | header
 -------| ------
 item   | item
 
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| Foo         | Bar         |
-
+<div style="border:10px solid black">
 | Table   | header |
 | ------- | ------: |
 | item    | item |
+</div>
 
 This is a parargaph
 and a new line
