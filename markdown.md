@@ -42,21 +42,17 @@ H2
 
 ----------------------------
 
-
-
-td, th {
-    border: 1px solid grey
-}
-
 <span style="color:red">
 | Table   | header |
 | ------- | ------: |
 | item    | item |
 </span>
 
+<div style="color:red">
 Table  | header
 -------| ------
 item   | item
+  </div>
 
 This is a parargaph
 and a new line
