@@ -46,12 +46,14 @@ Table  | header
 -------| ------
 item   | item
 
-
- <!-- empty ->    |   <!-- empty -->
--------| ------ | -----
-item   |   | item
-longer item |   | longer item
-
+<table border=0>
+  <tr align=left>
+    hello
+  </tr>
+  <tr align=right>
+    there
+  </tr>
+  </table>
 
 | Table   | header |
 | ------- | ------: |
