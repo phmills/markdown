@@ -1,4 +1,4 @@
-Markdown summary [Nov 17 2018]
+Markdown summary
 # H1
 
 ## H2
