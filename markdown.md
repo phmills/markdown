@@ -48,7 +48,7 @@ td, th {
     border: 1px solid grey
 }
 
-<span style="border:10px solid black">
+<span style="color:red">
 | Table   | header |
 | ------- | ------: |
 | item    | item |
