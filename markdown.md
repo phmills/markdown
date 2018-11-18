@@ -46,10 +46,10 @@ Table  | header
 -------| ------
 item   | item
 
-| | | |
-|-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
+ <span> |  
+  ---   |   ---     
+Value   |  Value  
+Value   |  Value
 
 | Table   | header |
 | ------- | ------: |
