@@ -46,10 +46,9 @@ Table  | header
 -------| ------
 item   | item
 
- <span> |  
-  ---   |   ---     
-Value   |  Value  
-Value   |  Value
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| Foo         | Bar         |
 
 | Table   | header |
 | ------- | ------: |
