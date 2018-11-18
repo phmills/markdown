@@ -46,14 +46,10 @@ Table  | header
 -------| ------
 item   | item
 
-<table border=0>
-  <tr align=left>
-    hello
-  </tr>
-  <tr align=right>
-    there
-  </tr>
-  </table>
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
 
 | Table   | header |
 | ------- | ------: |
