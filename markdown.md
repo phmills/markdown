@@ -47,8 +47,8 @@ Table  | header
 item   | item
 
 
-     |   
--------| ------
+ <!-- empty ->    |   <!-- empty -->
+-------| ------ | -----
 item   |   | item
 longer item |   | longer item
 
