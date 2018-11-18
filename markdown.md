@@ -43,7 +43,7 @@ H2
 ----------------------------
 
 Table  | header
--------| ------:
+-------| ------
 item   | item
 
 
@@ -51,6 +51,14 @@ item   | item
 | ------- | ------: |
 | item    | item |
 
+This is a parargaph
+and a new line
+and a new line with spaces   
+and a new line
+
+And a new paragraph
+
+The end
 
 #==== END OF FILE
 
