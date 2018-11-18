@@ -47,6 +47,12 @@ Table  | header
 item   | item
 
 
+     |   
+-------| ------
+item   |   | item
+longer item |   | longer item
+
+
 | Table   | header |
 | ------- | ------: |
 | item    | item |
